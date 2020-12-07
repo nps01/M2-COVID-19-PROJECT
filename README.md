@@ -1,6 +1,6 @@
 ## COVID-19
 
-This is a project for M2 students:
+This is a project for <strong>M2</strong> students:
 
 <ol>
   <li>Create HTML/ CSS file from scratch.</li>
