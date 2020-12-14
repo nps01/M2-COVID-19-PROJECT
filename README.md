@@ -9,4 +9,4 @@ This is a project for <strong>M2</strong> students:
   <li>Use version control software.</li>
   <li>Publish a webpage using Github pages.</li>
 </ol>
-<a href="https://nps01.github.io/covid-19/">Live Website</a>
+<a href="https://nps01.github.io/M2-COVID-19-PROJECT/">Live Website</a>
